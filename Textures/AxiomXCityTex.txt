@@ -1,0 +1,9 @@
+*Enable word wrap under edit to format this document for easy viewing.
+
+A collection of 16 original textures in JPG format.  All of the textures were created from scratch. They are meant to be used for 3D texture mapping.
+
+The .ZIP archive AxiomXCityTex.ZIP contains this text file(AxiomXCityTex.txt) and the 16 textures. You may distribute the .ZIP archive freely as long as you do not alter it's contents in any way. 
+
+Copyright 1999, Luisa Arevalo Klose 
+Email: luisa@axiomx.com
+ 
